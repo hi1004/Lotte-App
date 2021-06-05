@@ -1,0 +1,9 @@
+1320px
+12컬럼
+
+font-size : 18px 이나 15px
+banner높이: 600px;
+한글 : notosansKR
+button : 40px 라운드 1px 폰트크기 13px
+httpwww.hwajinkorea.com
+블랙에 60%,,
